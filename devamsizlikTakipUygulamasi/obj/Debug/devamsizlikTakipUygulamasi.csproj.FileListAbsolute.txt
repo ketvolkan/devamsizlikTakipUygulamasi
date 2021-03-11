@@ -1,0 +1,11 @@
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\bin\Debug\devamsizlikTakipUygulamasi.exe.config
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\bin\Debug\devamsizlikTakipUygulamasi.exe
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\bin\Debug\devamsizlikTakipUygulamasi.pdb
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.csprojAssemblyReference.cache
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.Form1.resources
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.Properties.Resources.resources
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.exe
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.pdb
+C:\Users\Volkan\source\repos\devamsizlikTakipUygulamasi\devamsizlikTakipUygulamasi\obj\Debug\devamsizlikTakipUygulamasi.derseklecikar.resources
